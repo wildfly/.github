@@ -1,0 +1,1 @@
+This .github repository contains GitHub-specific files for the WildFly organization (such as its profile page).

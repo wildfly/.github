@@ -1,0 +1,31 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+:hide-uri-scheme:
+:figure-caption!:
+
+= WildFly
+
+*A powerful, modular, & lightweight application server that helps you build amazing applications.*
+
+++++
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6193/193811479-522567d4-5b31-4c20-854d-de5703cfe719.png" alt="WildFly logo">
+</p>
+++++
+
+Here you can find our https://github.com/wildfly/wildfly[main repository], our https://github.com/wildfly/wildfly-proposals[analysis documents] and all projects around WildFly.
+
+If you are looking to get started with WildFlt check out our https://www.wildfly.org/guides/[guides] and https://docs.wildfly.org[main documentation].
+
+We are tracking our issues in the https://issues.redhat.com/projects/WFLY[WFLY Issue Tracker].
+
+Finally, to discuss and see what the WildFly community is up, come discuss in our chat rooms on https://wildfly.zulipchat.com/[Zulip].
+
+'''
+
+https://wildfly.org[WildFly] is a project member of the https://www.commonhaus.org[Commonhaus Foundation].
