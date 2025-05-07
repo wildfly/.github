@@ -20,7 +20,7 @@ endif::[]
 
 Here you can find our https://github.com/wildfly/wildfly[main repository], our https://github.com/wildfly/wildfly-proposals[analysis documents] and all projects around WildFly.
 
-If you are looking to get started with WildFlt check out our https://www.wildfly.org/guides/[guides] and https://docs.wildfly.org[main documentation].
+If you are looking to get started with WildFly check out our https://www.wildfly.org/guides/[guides] and https://docs.wildfly.org[main documentation].
 
 We are tracking our issues in the https://issues.redhat.com/projects/WFLY[WFLY Issue Tracker].
 
