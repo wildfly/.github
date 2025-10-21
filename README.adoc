@@ -1,1 +1,8 @@
-This .github repository contains GitHub-specific files for the WildFly organization (such as its profile page).
+# .github
+
+This repository contains GitHub-specific files for the https://github.com/wildfly['wildfly' GitHub organization]:
+
+* Its https://github.com/wildfly/.github/tree/main/profile#readme[profile page], providing the content shown on the https://github.com/wildfly[organization page].
+* https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file[Default community health files] for repositories in the organization.
+
+Note that the .gitignore, dco.txt, LICENSE and SECURITY.md files in this repository are not default community health files; their presence here does not remove the need for equivalent files in other repositories in the organization.
